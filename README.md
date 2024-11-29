@@ -11,7 +11,7 @@ A simple, responsive, and feature-rich note-taking app built using **React.js**,
 ## Installation
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/username/keep-notes-clone.git
+   git clone https://github.com/Barath-2001/keep-notes.git
    ```
 2. Install dependencies:
    ```bash
